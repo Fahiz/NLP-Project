@@ -1,0 +1,3 @@
+input: trained model (.ser file) and stopword removed testfiles
+ouput: predicted class of each reviews in testfiles
+       Accuracy
